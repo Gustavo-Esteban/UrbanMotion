@@ -11,7 +11,9 @@
       "Bash(printf '# WooCommerce \\(REST API\\)\\\\nWC_URL=https://seu-site.com\\\\nWC_CONSUMER_KEY=ck_xxxxxxxxxxxxxxxxxxxxxxxxxxxx\\\\nWC_CONSUMER_SECRET=cs_xxxxxxxxxxxxxxxxxxxxxxxxxxxx\\\\n\\\\n# URLs\\\\nBASE_URL=http://localhost:3000\\\\nFRONTEND_URL=http://localhost:4200\\\\n\\\\n# Server\\\\nPORT=3000\\\\n')",
       "Bash(python:*)",
       "Bash(npm run build:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }
